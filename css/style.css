@@ -1,0 +1,22 @@
+.panda-bg{
+    background-color: antiquewhite;
+}
+
+.panda-img img{
+    width: 100px;
+}
+
+.btn-panda{
+    background-image: linear-gradient(to bottom, #FF3D8A 0%,#ee5b96 100%);
+    color: white;
+    border-radius: 8px;
+    border: none;
+    padding: 9px 25px;
+
+}
+.subscribe{
+    height: 400px;
+}
+ .subscribe input{
+     margin-bottom: 25px;
+ }
